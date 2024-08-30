@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 #* jq to parse and create a metadata.
-#* Users are advised to use bindd to explicitly add the description
+#* Users are advised to use bind to explicitly add the description
 #* Please inform us if there are new Categories upstream will try to add comments to this script
 #* Khing 🦆
 
